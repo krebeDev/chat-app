@@ -4,7 +4,7 @@ A real-time chat application.
 
 ## Overview
 
-A basic chat app built to implement real-time, bi-directional and event-based communications between a server and multiple clients, using the popular socket.io library.
+This is a basic chat app built to implement real-time, bi-directional and event-based communications between a server and multiple clients, using the popular socket.io library.
 This app is a code-along project of a Udemy course by [Andrew Mead](https://gist.github.com/andrewjmead) on Node.js and is being currently improved.
 Contributions are welcomed!
 
